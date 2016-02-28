@@ -32,7 +32,7 @@ public class Hendrik implements LoipePresenter {
      *
      */
     private static void greet () {
-        System.out.println("Hello, I am Hendrik, the interative Loipe presenter.");
+        System.out.println("Hello, I am Hendrik, the interactive Loipe presenter.");
         System.out.println("Press enter to advance to the next state.");
     }
 
