@@ -23,7 +23,7 @@ public class Jasper implements Skier {
     }
 
     /**
-     * Constructor helper that chooses a default staring point.
+     * Constructor helper that chooses a default starting point.
      *
      */
     public Jasper () {
