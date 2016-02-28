@@ -49,11 +49,11 @@ public class Hendrik implements LoipePresenter {
     @Override
     public void present () {
         greet();
-        updateViews(this.loipe.start());
+        this.updateViews(this.loipe.start());
         draw();
         while (true) {
             this.scanner.nextLine();
-            updateViews(this.loipe.stap());
+            this.updateViews(this.loipe.stap());
             draw();
         }
     }
