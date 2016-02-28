@@ -5,6 +5,17 @@ import java.util.Scanner;
 /**
  * Contains the main method.
  *
+ * We test our program with the path "srrsslssllrsrrrslssslsllsslrrsss" which
+ * produces the following output (for the first step) using the AsciiArt
+ * TekenLoipe implementation:
+ *
+ *     ´ `   ´ `
+ *     | | ´ + ´
+ *     * | | ` `
+ *     | ` + - ´
+ *     | ´ + - `
+ *     ` ´ ` - ´
+ *
  * @author Hendrik Werner // s4549775
  * @author Jasper Haasdijk // s4449754
  */
